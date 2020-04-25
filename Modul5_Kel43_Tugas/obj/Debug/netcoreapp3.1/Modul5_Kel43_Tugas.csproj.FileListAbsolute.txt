@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\bin\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.exe
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\bin\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.deps.json
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\bin\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.runtimeconfig.json
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\bin\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\bin\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.dll
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\bin\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.pdb
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\obj\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\obj\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\obj\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\obj\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.AssemblyInfo.cs
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\obj\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.dll
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\obj\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.pdb
+C:\Users\asus\source\repos\Modul5_Kel43_Tugas\Modul5_Kel43_Tugas\obj\Debug\netcoreapp3.1\Modul5_Kel43_Tugas.genruntimeconfig.cache

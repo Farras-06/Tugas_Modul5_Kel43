@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Modul5_Kel43_Tugas/1.0.0": {
+        "runtime": {
+          "Modul5_Kel43_Tugas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul5_Kel43_Tugas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
